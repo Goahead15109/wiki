@@ -1,2 +1,5 @@
 # wiki
-FAQ, 协作流程, 项目文档, 代码规范
+
+Wlecome to staticblog wiki, Just for fun.
+
+[FAQ](https://github.com/staticblog/wiki/FAQ)
